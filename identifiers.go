@@ -5,14 +5,14 @@ import "fmt"
 // 	fmt.Println(name);
 // }
 
-var Name string="Sharad"
-func display(){
-	fmt.Println(Name);
-}
-func main(){
-	
-	display();
-}
+// var Name string="Sharad"
+// func display(){
+// 	fmt.Println(Name);
+// }
+// func main(){
+// 	var
+// 	display();
+// }
 
 /*
 Rules for Naming Identifiers
@@ -24,3 +24,11 @@ It cannot start with a digit.
 Identifiers are case-sensitive.
 Go keywords cannot be used as identifiers.
 */
+ 
+func main(){
+	Age := 22
+	Name := "Sharad"
+	fmt.Println(age);
+	fmt.Println(Name);
+}
+
