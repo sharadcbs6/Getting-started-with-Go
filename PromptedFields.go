@@ -27,3 +27,15 @@ func main(){
 	fmt.Println("Branch:",values.branch);
 	fmt.Println("Year:",values.year);
 }
+
+/*
+type x struct{
+// Fields
+}
+
+type y struct{
+// Fields of y structure
+x
+}
+
+*/
