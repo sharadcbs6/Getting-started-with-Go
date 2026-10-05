@@ -4,9 +4,9 @@ import (
 	"net/http"
 )
 func main(){
-	http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
+	http.HandleFunc("/ad", func(w http.ResponseWriter, r *http.Request) {
         fmt.Fprintf(w, "<h1>Hello World</h1>");
     })
-
-    http.ListenAndServe(":80", nil)
+	http.Handle("/",http.StripPrefix("/home",http.FileServer(http.Dir("static/"))))
+    http.ListenAndServe(":8080", nil)
 }

@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+    color: white;
+    font-family: cursive;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
