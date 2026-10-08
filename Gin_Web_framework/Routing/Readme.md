@@ -13,3 +13,6 @@
 
 ## upload /Single.go
 ![Alt text](image5.png)
+
+## upload/LimitSize.go
+![Alt text](image6.png)
