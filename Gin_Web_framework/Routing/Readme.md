@@ -16,3 +16,6 @@
 
 ## upload/LimitSize.go
 ![Alt text](image6.png)
+
+## GroupRouting.go
+![Alt text](image7.png)
