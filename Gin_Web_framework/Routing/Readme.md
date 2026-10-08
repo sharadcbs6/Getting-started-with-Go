@@ -6,3 +6,6 @@
 
 ## QueryandPostform.go
 ![Alt text](image3.png)
+
+## Map.go
+![Alt text](image4.png)
