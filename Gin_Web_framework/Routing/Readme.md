@@ -19,3 +19,6 @@
 
 ## GroupRouting.go
 ![Alt text](image7.png)
+
+## Redirects.go
+![Alt text](image8.png)
