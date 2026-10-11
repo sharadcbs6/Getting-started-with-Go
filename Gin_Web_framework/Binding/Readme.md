@@ -8,3 +8,6 @@
 
 ## OnlyBindQuery.go
 ![Alt text](image3.png)
+
+## Binding.go
+![Alt txt](image4.png)
