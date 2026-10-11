@@ -14,3 +14,6 @@
 
 ## BindQueryPostData.go
 ![Alt txt](image5.png)
+
+## BindDefault.go
+![Alt text](image6.png)
