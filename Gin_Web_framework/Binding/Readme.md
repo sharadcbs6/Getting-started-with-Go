@@ -5,3 +5,6 @@
 
 ## CustomValidators.go
 ![Alt text](image2.png)
+
+## OnlyBindQuery.go
+![Alt text](image3.png)
