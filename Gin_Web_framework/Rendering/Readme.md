@@ -11,3 +11,6 @@
 
 ## Rendering.go
 ![Alt text](image4.png)
+
+## PureJSON.go
+![Alt text](image5.png)
