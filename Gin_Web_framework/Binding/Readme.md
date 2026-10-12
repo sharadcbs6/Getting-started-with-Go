@@ -17,3 +17,6 @@
 
 ## BindDefault.go
 ![Alt text](image6.png)
+
+## BindURI.go
+![Alt text](image7.png)
