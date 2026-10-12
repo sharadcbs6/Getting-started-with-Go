@@ -8,3 +8,6 @@
 
 ## AsciiJSON.go
 ![Alt text](image3.png)
+
+## Rendering.go
+![Alt text](image4.png)
