@@ -3,7 +3,7 @@
 Gin supports rendering responses in multiple formats including JSON, XML, YAML, ProtoBuf, HTML, and more. 
 Every rendering method follows the same pattern: call a method on *gin.Context with an HTTP status code
  and the data to serialize. Gin handles content-type headers, serialization, and 
- writing the response automatically.
+  writing the response automatically.
 
 // All rendering methods share this pattern:
 c.JSON(http.StatusOK, data)   // application/json
