@@ -7,3 +7,6 @@
 
 ## customMiddleware.go
 ![Alt text](image3.png)
+
+## customRecoveryBehaviour.go
+![Alt text](image4.png)
