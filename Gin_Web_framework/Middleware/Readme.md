@@ -10,3 +10,6 @@
 
 ## customRecoveryBehaviour.go
 ![Alt text](image4.png)
+
+## ErrorHandlingMiddleware.go
+![Alt text](image5.png)
