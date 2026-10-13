@@ -13,3 +13,6 @@
 
 ## ErrorHandlingMiddleware.go
 ![Alt text](image5.png)
+
+## basicAuthMiddleware.go
+![Alt text](image6.png)
