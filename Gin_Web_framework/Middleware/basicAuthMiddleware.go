@@ -34,7 +34,7 @@ func main() {
     
     user := c.MustGet(gin.AuthUserKey).(string)
     if secret, ok := secrets[user]; ok {
-      c.JSON(http.StatusOK, gin.H{"user": user, "secret": secret})
+      c.JSON(http.StatusOK, gin.H{" user ": user, "secret": secret})
     } else {
       c.JSON(http.StatusOK, gin.H{"user": user, "secret": "NO SECRET :("})
     }
