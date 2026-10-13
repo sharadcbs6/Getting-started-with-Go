@@ -2,5 +2,8 @@
 ## withoutMiddleare.go
 ![Alt text](image1.png)
 
-## withMidddleware.go
+## using Midddleware.go
 ![Alt text](image2.png)
+
+## customMiddleware.go
+![Alt text](image3.png)
