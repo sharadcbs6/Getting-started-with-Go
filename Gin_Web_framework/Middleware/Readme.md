@@ -22,3 +22,6 @@
 
 ## SecruityHeaders.go
 ![Alt text](image8.png)
+
+## DefaultSecruityHeaders.go
+![Alt text](image9.png)     
