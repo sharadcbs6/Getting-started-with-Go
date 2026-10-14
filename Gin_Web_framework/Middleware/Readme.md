@@ -19,3 +19,6 @@
 
 ## Goroutines.go
 ![Alt text](image7.png)
+
+## SecruityHeaders.go
+![Alt text](image8.png)
