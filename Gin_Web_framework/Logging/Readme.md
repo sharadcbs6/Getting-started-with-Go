@@ -8,3 +8,6 @@
 
 ## skiplogging.go
 ![Alt text](image3.png)
+
+## LogOutputColorWithout.go
+![Alt text](image4.png)
