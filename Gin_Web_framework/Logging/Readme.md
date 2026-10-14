@@ -14,3 +14,6 @@
 
 ## ColorConsoleOutput.go
 ![Alt text](image5.png)
+
+## AvoidloggingqueryStrings.go
+![Alt text](image6.png)
