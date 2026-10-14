@@ -17,7 +17,7 @@ func main(){
 	router:=gin.New()
 	loggerConfig:=gin.LoggerConfig{SkipPaths: []string{"/metrics"}}
 	loggerConfig.Skip=func(c *gin.Context) bool {
-		return c.Writer.Status()<500;
+		return c.Writer.Status()<http.StatusInternalServerError;
 	}
 
 	router.Use(gin.LoggerWithConfig(loggerConfig))
