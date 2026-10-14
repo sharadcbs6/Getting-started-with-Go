@@ -16,3 +16,6 @@
 
 ## basicAuthMiddleware.go
 ![Alt text](image6.png)
+
+## Goroutines.go
+![Alt text](image7.png)
