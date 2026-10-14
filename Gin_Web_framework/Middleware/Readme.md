@@ -25,3 +25,6 @@
 
 ## DefaultSecruityHeaders.go
 ![Alt text](image9.png)     
+
+## SessionManagement.go
+![Alt text](image10.png)
