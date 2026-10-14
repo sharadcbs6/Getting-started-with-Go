@@ -5,3 +5,6 @@
 
 ## customlogfile.go
 ![Alt text](image2.png)
+
+## skiplogging.go
+![Alt text](image3.png)
