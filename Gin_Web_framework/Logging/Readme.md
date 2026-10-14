@@ -11,3 +11,6 @@
 
 ## LogOutputColorWithout.go
 ![Alt text](image4.png)
+
+## ColorConsoleOutput.go
+![Alt text](image5.png)
