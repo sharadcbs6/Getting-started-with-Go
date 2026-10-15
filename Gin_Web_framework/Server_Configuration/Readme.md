@@ -16,3 +16,6 @@
 
 ## SetCookie.go
 ![Alt text](image6.png)
+
+## Trustedproxies.go
+![Alt text](image7.png)
